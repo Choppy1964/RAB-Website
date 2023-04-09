@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>R.A Botha INC Accountants</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="company-logo.png" alt="Company Logo">
+    <h1>R.A Botha INC Accountants</h1>
+    <p>123 Main Street, Anytown, USA</p>
+    <p>Phone: 123-456-7890</p>
+  </header>
+</body>
+</html>
